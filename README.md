@@ -21,7 +21,7 @@ Excel spreadsheet models adapted from Pressley et al. (2015)
 - MRFmodel _trial.xlsx
 - MRFmodel _base.xlsx
 
-Python script file for performing life cycle assessment
+Python script file for performing life cycle assessment using the framework in Olafasakin et al. (2023)
 - Hocken_LCA.py
 
 Python script file for performing technoeconomic assessment
