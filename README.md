@@ -6,7 +6,7 @@ A cyclone separation process for sorting small-format plastics
 Alexis Hocken, Desiree L. Plata, Bradley D. Olsen
 
 
-The following outlines the content within this record:
+The following outlines the content within this repository:
 
 STL files for 3D printed parts of cyclone prototype and screw conveyor system
 
