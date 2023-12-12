@@ -2,9 +2,7 @@
 
 These codes and files were used in the following manuscript:
 
-A cyclone separation process for sorting small-format plastics
-Alexis Hocken, Desiree L. Plata, Bradley D. Olsen
-
+Hocken, A., Plata, D.L., Olsen, B.D. A cyclone separation process for sorting small-format plastics
 
 The following outlines the content within this repository:
 
